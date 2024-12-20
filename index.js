@@ -1,4 +1,3 @@
-
 const inputValue = document.getElementById("user-input");
 const number = document.querySelectorAll(".numbers").forEach(function(item) {
     item.addEventListener("click", function(e) {
